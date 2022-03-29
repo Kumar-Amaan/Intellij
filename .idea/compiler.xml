@@ -9,5 +9,8 @@
         <module name="JiraAPI_Intellij" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JiraAPI_Intellij" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
